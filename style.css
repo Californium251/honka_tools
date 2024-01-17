@@ -1,0 +1,66 @@
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f8ff; /* Light sky blue background */
+    color: #333; /* Dark text for readability */
+}
+
+header {
+    background-color: #7fffd4; /* Aquamarine header background */
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+section {
+    padding: 2em;
+    text-align: center;
+}
+
+#intro {
+    background-color: #e6e6fa; /* Lavender background */
+}
+
+#products, #contact {
+    background-color: #fff0f5; /* Lavender blush background */
+}
+
+#gallery {
+    background-color: #fafad2; /* Light goldenrod yellow background */
+}
+
+footer {
+    background-color: #696969; /* Dim gray background */
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+button {
+    background-color: #ff4500; /* Orange red button */
+    color: #fff;
+    border: none;
+    padding: 1em 2em;
+    text-transform: uppercase;
+    cursor: pointer;
+    margin-top: 1em;
+}
+
+button:hover {
+    background-color: #ff6347; /* Tomato color on hover */
+}
